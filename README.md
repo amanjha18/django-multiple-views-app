@@ -19,7 +19,7 @@ This project is a Django application designed to demonstrate the implementation 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/django-multi-view-app.git
+    git clone https://github.com/amanjha18/django-multiple-views-app.git
     cd django-multi-view-app
 2. Create a virtual environment and activate:
     ```bash
